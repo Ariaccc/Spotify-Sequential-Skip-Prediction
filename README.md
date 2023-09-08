@@ -1,4 +1,4 @@
-# Spotify-Sequential-Skip-Prediction
+# Spotify Sequential Skip Prediction
 
 In many music streaming services such as Spotify, personalized music recommendation systems play a prominent role. These recommendation systems allow the user to listen to suggested music based on a particular song, the user’s mood, time, or location. The vast amount of available music and diverse interests exhibited by various users, as well as by the same user during different situations pose considerable challenges to such systems.
 
